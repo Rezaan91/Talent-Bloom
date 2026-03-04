@@ -1,8 +1,8 @@
 # Visit the Website
-Go to: [talent-bloom-ims.netlify.app](talent-bloom-ims.netlify.app)
+Go to: [talent-bloom-ims.netlify.app](https://musa621.github.io/Capaciti_Services/)
 
 # Quick Links
-• Live Application: [talent-bloom-ims.netlify.app](talent-bloom-ims.netlify.app)
+• Live Application: [talent-bloom-ims.netlify.app](https://musa621.github.io/Capaciti_Services/)
 
 # Talent Bloom
 

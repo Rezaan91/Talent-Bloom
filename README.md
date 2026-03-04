@@ -1,3 +1,9 @@
+# Visit the Website
+Go to: [https://musa621.github.io/Capaciti_Services/](https://musa621.github.io/Capaciti_Services/)
+
+# Quick Links
+• Live Application: [https://musa621.github.io/Capaciti_Services/](https://musa621.github.io/Capaciti_Services/)
+
 # Talent Bloom
 
 Talent Bloom is a platform designed to connect talented individuals with organizations seeking their skills. The goal is to streamline the talent acquisition process, making it easier for both job seekers and recruiters to find the perfect match.

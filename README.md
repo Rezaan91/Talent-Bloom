@@ -4,9 +4,9 @@ Go to: [talent-bloom-ims.netlify.app](https://musa621.github.io/Capaciti_Service
 # Quick Links
 • Live Application: [talent-bloom-ims.netlify.app](https://musa621.github.io/Capaciti_Services/)
 
-# Talent Bloom
+# Talent Bloom - Internship Dashboard
 
-Talent Bloom is a platform designed to connect talented individuals with organizations seeking their skills. The goal is to streamline the talent acquisition process, making it easier for both job seekers and recruiters to find the perfect match.
+Talent Bloom is a Internship Management System platform designed to connect talented individuals with organizations seeking their skills. The goal is to streamline the talent acquisition process, making it easier for both job seekers and recruiters to find the perfect match.
 
 ## Features
 
@@ -62,7 +62,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## License
 
 This project is licensed under the MIT License.
-
-## Credits
-
-- Original project: [PatienceGutyungwa/Talent-Bloom](https://github.com/PatienceGutyungwa/Talent-Bloom)
